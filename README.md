@@ -12,7 +12,7 @@ The SAF-Toolkit was developed at the Vrije Universiteit Amsterdam. It entails th
 The concepts managed by the SAF Toolkit are visualized below:
 
 <p align="center">
-<img src="./documentation/SAFmodel.jpg" alt="Overview of the SAF conceptual model" width="500"/>
+<img src="./documentation/SAFmodel.jpeg" alt="Overview of the SAF conceptual model" width="500"/>
 </p>
 
 ## How to cite SAF Toolkit
