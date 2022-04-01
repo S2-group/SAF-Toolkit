@@ -50,8 +50,8 @@ This is the root directory of the repository. The directory is structured as fol
     SAF Toolkit
      .
      |        
-     |--- documentation/                    Files used for the README
-     |                         
      |--- SAF Toolkit [2022-04]/            Current version of the SAF Toolkit, including instruments                              
+     |                         
+     |--- documentation/                    Files used for the README
      |
      |--- tutorials/                        Tutorials on how to use the SAF Toolkit
