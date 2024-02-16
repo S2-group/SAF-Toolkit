@@ -1,5 +1,7 @@
-# SAF-Toolkit
-## Sustainability Assessment Framework (SAF) Toolkit
+# SAF-Toolkit [v2022-04]
+> This is the old version (2022-04) of the Sustainability Assessment Framework (SAF) Toolkit. Please consider using the current version.
+
+# Sustainability Assessment Framework (SAF) Toolkit
 This reporitory contains the material of SAF-Tooolkit, a set of instruments to design the network of sustainability-quality concerns at the software architecture level, and define and operationalize them.
 
 The SAF-Toolkit was developed at the Vrije Universiteit Amsterdam. It entails the following instruments:
@@ -7,21 +9,12 @@ The SAF-Toolkit was developed at the Vrije Universiteit Amsterdam. It entails th
 2. **Checklist**: reflective questions to help defining the elements of a DM; this include the **Decision Graph**, which helps the classification of concerns in the sustainability dimensions and level of impact;
 3. **Dependency Matrix'es (DMatrix) template**: helps completing and complementing the own DM for the most relevant sustainability dimensions; identifying missing sustainability-quality concerns; and identifying missing dependencies. It includes: (i) instructions for use and extension; DMatrix of dependencies between SQ concerns (ii) in the Technical-Social dimensions; (iii) in the Technical-Environmental dimensions; and (iv) in the Technical-Economic dimensions (version 2022-04);
 4. **Sustainability-Quality (SQ) Model template**: for each SQ concern (aka attribute aka characteristic), it captures consolidated definitions and the metrics/KPIs to operationalize them. It includes: (i) the template to define the own SQ model; and (ii) the SQ Model (version 1.1 dated 2022-04) created from past projects and the ISO/IEC 25010-2011 standard.
-5. **Key Performance Indicator (KPI) template**: todo
-6. **Key Performance Indicator (KPI) checklist**: todo
 
-## SAF Structural Model
-High-level overview of all involved instruments and their relation. Instruments inside the dashed-blue rectangle are available in its current version; instruments outside are plan of our future vision and have yet to be integrated.
-
-<p align="center">
-<img src="./documentation/SAFmodel-structural-view_2024-02.jpeg" alt="SAF Structural Model - TODO" width="900"/>
-</p>
-
-## SAF Conceptual Model
+# SAF Conceptual Model
 The concepts managed by the SAF Toolkit are visualized below:
 
 <p align="center">
-<img src="./documentation/SAFmodel_2024-02.jpeg" alt="Overview of the SAF conceptual model" width="900"/>
+<img src="./documentation/SAFmodel.jpeg" alt="Overview of the SAF conceptual model" width="900"/>
 </p>
 
 ## How to cite SAF Toolkit
@@ -29,7 +22,7 @@ The concepts managed by the SAF Toolkit are visualized below:
 If SAF Toolkit is helping your research or practice, please credit our work by citing it as follows, thanks!
 
 ``` 
-@MISC{SAF_Toolkit_2024,
+@MISC{SAF_Toolkit_2022,
   title="{The Sustainability Assessment Framework (SAF) Toolkit: Instruments to help Sustainability-driven Software Architecture Design Decision Making}",
   author={Patricia Lago and Nelly Condori-Fernandez},
   month=apr,
@@ -39,7 +32,7 @@ If SAF Toolkit is helping your research or practice, please credit our work by c
 }
 ```
 
-## Publications TODO
+## Publications
 The material included in this repository is based on the following publications:
 
 > Lago, P. (2019). Architecture design decision maps for software sustainability. In IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS) (pp. 61-64). [8797634]. https://doi.org/10.1109/ICSE-SEIS.2019.00015
@@ -52,25 +45,15 @@ The material included in this repository is based on the following publications:
 
 > Condori-Fernandez, N., Lago, P., Luaces, M. R., & Places, Á. S. (2020). An action research for improving the sustainability assessment framework instruments. Journal of Sustainability (Switzerland), 12(4). [1682]. https://doi.org/10.3390/su12041682
 
-
-## Case studies experimenting with the SAF Toolkit TODO
-The material included in this repository is based on the following publications:
-
-
 Directory Structure
 ---------------
 This is the root directory of the repository. The directory is structured as follows:
 
-    SAF Toolkit TODO
+    SAF Toolkit
      .
      |        
-     |--- SAF Toolkit [2022-04]/            Previous version of the SAF Toolkit, including its instruments                              
-        |                         
-        |--- documentation/                    Files used for the README (FIXME)
-        |
-        |--- tutorials/                        Tutorials on how to use the SAF Toolkit
-     |--- SAF Toolkit [2024-02]/            Current version of the SAF Toolkit, including its instruments                              
-        |                         
-        |--- documentation/                    Files used for the README (FIXME)
-        |
-        |--- tutorials/                        Tutorials on how to use the SAF Toolkit
+     |--- SAF Toolkit [2022-04]/            Current version of the SAF Toolkit, including instruments                              
+     |                         
+     |--- documentation/                    Files used for the README
+     |
+     |--- tutorials/                        Tutorials on how to use the SAF Toolkit
