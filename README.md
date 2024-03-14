@@ -3,25 +3,25 @@
 This reporitory contains the material of SAF-Tooolkit, a set of instruments to design the network of sustainability-quality concerns at the software architecture level, and define and operationalize them.
 
 The SAF-Toolkit was developed at the Vrije Universiteit Amsterdam. It entails the following instruments:
-1. **Decision Map (DM)** visual notation (library to be used in the [Diagrams.net tool](https://www.diagrams.net)): diagram framing and illustrating the (software architecture) sustainability-relevant design- and quality concerns and their related dependencies;
-2. **Checklist**: reflective questions to help defining the elements of a DM; this include the **Decision Graph**, which helps the classification of concerns in the sustainability dimensions and level of impact;
-3. **Dependency Matrix'es (DMatrix) template**: helps completing and complementing the own DM for the most relevant sustainability dimensions; identifying missing sustainability-quality concerns; and identifying missing dependencies. It includes: (i) instructions for use and extension; DMatrix of dependencies between SQ concerns (ii) in the Technical-Social dimensions; (iii) in the Technical-Environmental dimensions; and (iv) in the Technical-Economic dimensions (version 2022-04);
-4. **Sustainability-Quality (SQ) Model template**: for each SQ concern (aka attribute aka characteristic), it captures consolidated definitions and the metrics/KPIs to operationalize them. It includes: (i) the template to define the own SQ model; and (ii) the SQ Model (version 1.1 dated 2022-04) created from past projects and the ISO/IEC 25010-2011 standard.
-5. **Key Performance Indicator (KPI) template**: todo
-6. **Key Performance Indicator (KPI) checklist**: todo
+1. [**Decision Map (DM)**](./SAF%20Toolkit%20[2024-02]/[2024-02]%20DM%20Library%20[features+concerns].xml) visual notation (library to be used in the [Diagrams.net tool](https://www.diagrams.net)): diagram framing and illustrating the (software architecture) sustainability-relevant design- and quality concerns and their related dependencies;
+2. [**Checklist**](./SAF%20Toolkit%20[2024-02]/[2024-02]%20Checklist.pdf): reflective questions to help defining the elements of a DM; this include the [**Decision Graph**](./SAF%20Toolkit%20[2024-02]/[2022-04]%20DecisionGraph.pdf), which helps the classification of concerns in the sustainability dimensions and level of impact;
+3. [**Dependency Matrix'es (DMatrix) template**](./SAF%20Toolkit%20[2024-02]/[2024-02]%20_template_DMatrix.xlsx): helps completing and complementing the own DM for the most relevant sustainability dimensions; identifying missing sustainability-quality concerns; and identifying missing dependencies. It includes: (i) instructions for use and extension; DMatrix of dependencies between SQ concerns (ii) in the Technical-Social dimensions; (iii) in the Technical-Environmental dimensions; and (iv) in the Technical-Economic dimensions (version 2022-04);
+4. [**Sustainability-Quality (SQ) Model template**](./SAF%20Toolkit%20[2024-02]/[2024-02]%20_template_SQ-Model.xlsx): for each SQ concern (aka attribute aka characteristic), it captures consolidated definitions and the metrics/KPIs to operationalize them. It includes: (i) the template to define the own SQ model; and (ii) the SQ Model (version 1.1 dated 2022-04) created from past projects and the ISO/IEC 25010-2011 standard.
+5. [**Key Performance Indicator (KPI) template**](./SAF%20Toolkit%20[2024-02]/[2024-02]%20_template_KPI%20Model%20w_%20Checklist.xlsx): to establish and define the metrics and measures for the QAs within the SQ Model systematically, we aim to incorporate a KPI Model. It includes: (i) the KPI model as template for crafting own KPIs derived from the SQ model; and (ii) a practical KPI checklist for evaluating their soundness.
 
-## SAF Structural Model
+## SAF Toolkit Overview
 High-level overview of all involved instruments and their relation. Instruments inside the dashed-blue rectangle are available in its current version; instruments outside are plan of our future vision and have yet to be integrated.
 
 <p align="center">
-<img src="./SAF Toolkit [2024-02]/documentation/[2024-02] SAFmodel-structuralView.png" alt="SAF Structural Model - TODO" width="900"/>
+<img src="./SAF Toolkit [2024-02]/documentation/[2024-02] SAFmodel-structuralView.png" alt="SAF Toolkit Overview" width="900"/>
 </p>
 
-## SAF Conceptual Model
-The concepts managed by the SAF Toolkit are visualized below:
+## SAF Toolkit Model
+The instruments managed by the SAF Toolkit are visualized below containing a detailed-level overview of all involved instruments, their elements and relation. Colored elements are available in its current version; Transparent elements are plan of our future vision and have yet to be integrated.
+
 
 <p align="center">
-<img src="./documentation/SAFmodel_2024-02.jpeg" alt="Overview of the SAF conceptual model" width="900"/>
+<img src="./SAF Toolkit [2024-02]/documentation/[2024-02] SAFmodel.png" alt="Detailed-level of the SAF model" width="900"/>
 </p>
 
 ## How to cite SAF Toolkit
@@ -39,7 +39,7 @@ If SAF Toolkit is helping your research or practice, please credit our work by c
 }
 ```
 
-## Publications TODO
+## Publications
 The material included in this repository is based on the following publications:
 
 > Lago, P. (2019). Architecture design decision maps for software sustainability. In IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS) (pp. 61-64). [8797634]. https://doi.org/10.1109/ICSE-SEIS.2019.00015
@@ -52,13 +52,32 @@ The material included in this repository is based on the following publications:
 
 > Condori-Fernandez, N., Lago, P., Luaces, M. R., & Places, Á. S. (2020). An action research for improving the sustainability assessment framework instruments. Journal of Sustainability (Switzerland), 12(4). [1682]. https://doi.org/10.3390/su12041682
 
-
-## Case studies experimenting with the SAF Toolkit TODO
-The material included in this repository is based on the following publications:
+> Fatima, I., Funke, M., Lago, P. Providing Guidance to Software Practitioners: A Framework for Creating KPIs. TechRxiv. February 13, 2024. https://doi.org/10.36227/techrxiv.24057882.v2
 
 
-Directory Structure
----------------
+## Case studies experimenting with the SAF Toolkit
+Case studies experimenting with the SAF Toolkit:
+
+> Espana, S., Lago, P. Software Sustainability Assessment (SoSA) exercise report. Technical report, Vrije Universiteit Amsterdam (May 2016). https://goo.gl/d9FYi9
+
+> Verdecchia, R., Procaccianti, G., Malavolta, I., Lago, P., Koedijk, J. Estimating Energy Impact of Software Releases and Deployment Strategies: The KPMG Case Study. In: International Symposium on Empirical Software Engineering and Measurement (ESEM), pp.257–266. Springer, Ljubljana, Slovenia (2017). https://doi.org/10.1109/ESEM.2017.39
+
+> Niggebrugge, T., Vos, S., Lago, P.: The Sustainability of Mobility as a Service Solutions Evaluated through the Software Sustainability Assessment Method. Technical report, Vrije Universiteit Amsterdam (January 2018)
+
+> Lago, P. Architecture Design Decision Maps for Software Sustainability. In: 41st International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS). ICSE, pp. 61–64. IEEE/ACM, Montr´eal, Canada (2019). http://dx.doi.org/10.1109/ICSE-SEIS.2019.00015
+
+> Vos, S., Schaefers, H., Bon, A., Lago, P. Sustainability and Ethics by Design: On the development of digital platforms in low-resource environments. Technical report, Vrije Universiteit Amsterdam (December 2020). https://research.vu.nl/files/137357217/ICT4FoodSec1.pdf
+
+> Vos, S., Schaefers, H., Lago, P., Bon, A. Towards Sustainability and Equality in Digital Development. In: The Future of Digital Work: The Challenge of Inequality. IFIP AICT, vol. 601. Springer, Cham (2020). http://link.springer.com.vu-nl.idm.oclc.org/978-3-030-64697-4
+
+> Bischoff, Y., Wiel, R., Hooff, B., Lago, P. A taxonomy about information systems complexity and sustainability. In: Advances and New Trends in Environmental Informatics, pp.17–33. Springer, Cham (2022)
+
+> Lago, P., Verdecchia, R., Condori-Fernandez, N., Rahmadian, E., Sturm, J., Nijnanten, T., Bosma, R., Debuysscher, C., Ricardo, P. Designing for Sustainability: Lessons Learned from Four Industrial Projects. In: Advances and New Trends in Environmental Informatics, pp. 3–18. Springer, Cham (2021). https://doi.org/10.1007/978-3-030-61969-51
+
+> Funke, M., Lago, P., Verdecchia, R.: Variability Features: Extending Sustainability Decision Maps via an Industrial Case Study. In: 2023 IEEE 20th International Conference on Software Architecture Companion (ICSA-C), pp. 1–7. IEEE, L’Aquila, Italy (2023)
+
+
+## Directory Structure
 This is the root directory of the repository. The directory is structured as follows:
 
     SAF Toolkit TODO
