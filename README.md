@@ -85,11 +85,11 @@ This is the root directory of the repository. The directory is structured as fol
      |        
      |--- SAF Toolkit [2022-04]/            Previous version of the SAF Toolkit, including its instruments                              
         |                         
-        |--- documentation/                    Files used for the README (FIXME)
+        |--- documentation/                    SAF Toolkit models as UML diagrams; files used for the README
         |
         |--- tutorials/                        Tutorials on how to use the SAF Toolkit
      |--- SAF Toolkit [2024-02]/            Current version of the SAF Toolkit, including its instruments                              
         |                         
-        |--- documentation/                    Files used for the README (FIXME)
+        |--- documentation/                    SAF Toolkit models as UML diagrams; files used for the README
         |
         |--- tutorials/                        Tutorials on how to use the SAF Toolkit
