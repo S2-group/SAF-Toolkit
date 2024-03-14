@@ -33,7 +33,7 @@ If SAF Toolkit is helping your research or practice, please credit our work by c
   title="{The Sustainability Assessment Framework (SAF) Toolkit: Instruments to help Sustainability-driven Software Architecture Design Decision Making}",
   author={Patricia Lago and Nelly Condori-Fernandez},
   month=apr,
-  year={2022},
+  year={2024},
   url={https://github.com/S2-group/SAF-Toolkit},
   institution="S2 Group, Vrije Universiteit Amsterdam"
 }
