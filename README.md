@@ -21,7 +21,7 @@ The instruments managed by the SAF Toolkit are visualized below containing a det
 
 
 <p align="center">
-<img src="./SAF Toolkit [2024-02]/documentation/[2024-02] SAFmodel.png" alt="Detailed-level of the SAF model" width="900"/>
+<img src="./SAF Toolkit [2024-02]/documentation/[2024-08] SAFmodel.png" alt="Detailed-level of the SAF model" width="900"/>
 </p>
 
 ## How to cite SAF Toolkit
