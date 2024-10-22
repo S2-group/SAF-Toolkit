@@ -42,6 +42,8 @@ If SAF Toolkit is helping your research or practice, please credit our work by c
 ## Publications
 The material included in this repository is based on the following publications:
 
+> Lago, P., Fernandez, N. C., Fatima, I., Funke, M., & Malavolta, I. (2024). The Sustainability Assessment Framework Toolkit: A Decade of Modeling Experience. In arXiv [cs.SE]. arXiv. http://arxiv.org/abs/2405.01391. Accepted for publication in: The journal of Software and Systems Modeling, Springer.
+> 
 > Lago, P. (2019). Architecture design decision maps for software sustainability. In IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS) (pp. 61-64). [8797634]. https://doi.org/10.1109/ICSE-SEIS.2019.00015
 
 > Condori-Fernandez, N., & Lago, P. (2018). Characterizing the contribution of quality requirements to software sustainability. Journal of Systems and Software, 137, 289-305. https://doi.org/10.1016/j.jss.2017.12.005
