@@ -13,7 +13,7 @@ The SAF-Toolkit was developed at the Vrije Universiteit Amsterdam. It entails th
 High-level overview of all involved instruments and their relation. Instruments inside the dashed-blue rectangle are available in its current version; instruments outside are plan of our future vision and have yet to be integrated.
 
 <p align="center">
-<img src="./[2024-02]SAFmodel-structuralView.png" alt="SAF Toolkit Overview" width="900"/>
+<img src="./SAFmodel-structuralView.png" alt="SAF Toolkit Overview" width="900"/>
 </p>
 
 ## SAF Toolkit Model
@@ -21,7 +21,7 @@ The instruments managed by the SAF Toolkit are visualized below containing a det
 
 
 <p align="center">
-<img src="./documentation/[2024-08]%20SAFmodel.png" alt="Detailed-level of the SAF model" width="900"/>
+<img src="./SAFmodel.png" alt="Detailed-level of the SAF model" width="900"/>
 </p>
 
 ## How to cite SAF Toolkit
