@@ -29,11 +29,11 @@ The instruments managed by the SAF Toolkit are visualized below containing a det
 If SAF Toolkit is helping your research or practice, please credit our work by citing it as follows, thanks!
 
 ``` 
-@MISC{SAF_Toolkit_2024,
+@MISC{SAF_Toolkit_2026,
   title="{The Sustainability Assessment Framework (SAF) Toolkit: Instruments to help Sustainability-driven Software Architecture Design Decision Making}",
   author={Patricia Lago and {S2 Research Group}},
-  month=apr,
-  year={2024},
+  month=aug,
+  year={2026},
   url={https://github.com/S2-group/SAF-Toolkit},
   institution="S2 Group, Vrije Universiteit Amsterdam"
 }
@@ -42,8 +42,8 @@ If SAF Toolkit is helping your research or practice, please credit our work by c
 ## Publications
 The material included in this repository is based on the following publications:
 
-> Lago, P., Fernandez, N. C., Fatima, I., Funke, M., & Malavolta, I. (2024). The Sustainability Assessment Framework Toolkit: A Decade of Modeling Experience. In arXiv [cs.SE]. arXiv. http://arxiv.org/abs/2405.01391. Accepted for publication in: The journal of Software and Systems Modeling, Springer.
-> 
+> Lago, P., Condori Fernandez, N., Fatima, I., Funke, M., & Malavolta, I. (2025). The sustainability assessment framework toolkit: A decade of modeling experience. Software and Systems Modeling, Springer, Vol. 24(2), 361–383. https://doi.org/10.1007/s10270-024-01230-9
+
 > Lago, P. (2019). Architecture design decision maps for software sustainability. In IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS) (pp. 61-64). [8797634]. https://doi.org/10.1109/ICSE-SEIS.2019.00015
 
 > Condori-Fernandez, N., & Lago, P. (2018). Characterizing the contribution of quality requirements to software sustainability. Journal of Systems and Software, 137, 289-305. https://doi.org/10.1016/j.jss.2017.12.005
@@ -90,7 +90,12 @@ This is the root directory of the repository. The directory is structured as fol
         |--- documentation/                    SAF Toolkit models as UML diagrams; files used for the README
         |
         |--- tutorials/                        Tutorials on how to use the SAF Toolkit
-     |--- SAF Toolkit [2024-02]/            Current version of the SAF Toolkit, including its instruments                              
+     |--- SAF Toolkit [2024-02]/            Previous version of the SAF Toolkit, including its instruments                              
+        |                         
+        |--- documentation/                    SAF Toolkit models as UML diagrams; files used for the README
+        |
+        |--- tutorials/                        Tutorials on how to use the SAF Toolkit
+     |--- SAF Toolkit [2026-08]/            Current version of the SAF Toolkit, including its instruments                              
         |                         
         |--- documentation/                    SAF Toolkit models as UML diagrams; files used for the README
         |
